@@ -1,0 +1,15 @@
+Python Programming Introduction
+
+Python is a high-level, interpreted programming language known for its simplicity and readability.
+Created by Guido van Rossum and first released in 1991, Python has become one of the most widely
+used programming languages in the world.
+
+Key Features:
+- Easy to learn and use
+- Extensive standard library
+- Cross-platform compatibility
+- Strong community support
+
+Python is widely used in web development, data science, artificial intelligence, machine learning,
+automation, scripting, and scientific computing. Its strong ecosystem of libraries makes it a top
+choice for developers across many industries.

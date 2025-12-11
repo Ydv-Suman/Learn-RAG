@@ -1,0 +1,10 @@
+Advanced Python Concepts
+
+Python also supports advanced programming techniques such as:
+
+- Object-Oriented Programming (Classes & Objects)
+- Functional Programming (map, filter, lambda)
+- Generators & Iterators
+- Decorators for modifying function behavior
+- Context Managers for resource handling (with open() as f)
+- Multi-threading and AsyncIO for concurrency
