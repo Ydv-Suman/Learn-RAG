@@ -2,3 +2,6 @@
 *.env
 *.toml
 *.lock
+*.DB_Store
+*.python-version
+*.cursor
