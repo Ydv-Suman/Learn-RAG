@@ -5,7 +5,7 @@ tiktoken
 langchain-community
 langchain-openai
 chromadb
-sentence-transformers
+
 pypdf
 python-dotenv
 langchain-text-splitters
@@ -15,3 +15,9 @@ docx2txt
 pandas
 openpyxl
 jq
+matplotlib
+
+
+## Embedding
+langchain-huggingface
+sentence-transformers
