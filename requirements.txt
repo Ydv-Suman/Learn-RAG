@@ -14,3 +14,4 @@ python-docx
 docx2txt
 pandas
 openpyxl
+jq
