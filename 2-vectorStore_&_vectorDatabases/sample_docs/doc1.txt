@@ -1,0 +1,10 @@
+
+Deep Learning Fundamentals
+
+Deep learning is a subfield of machine learning that uses multi-layer neural networks,
+often called deep neural networks, to model complex patterns in large datasets.
+These networks are inspired by the structure of the human brain and are particularly
+effective when working with large amounts of unstructured data.
+
+Deep learning is widely used in image recognition, speech processing,
+autonomous systems, and natural language understanding.
