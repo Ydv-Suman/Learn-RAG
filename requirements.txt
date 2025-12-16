@@ -21,3 +21,4 @@ matplotlib
 ## Embedding
 langchain-huggingface
 sentence-transformers
+langchain-experimental
